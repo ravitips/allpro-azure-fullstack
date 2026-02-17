@@ -1,0 +1,1 @@
+# allpro-azure-fullstack
