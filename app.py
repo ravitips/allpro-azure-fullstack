@@ -27,3 +27,7 @@ print(a^2)
 
 a=3
 print(a^3)
+
+a=4
+b=2
+print(a%b)
