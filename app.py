@@ -24,3 +24,6 @@ print(a^b)
 
 a=4
 print(a^2)
+
+a=3
+print(a^3)
