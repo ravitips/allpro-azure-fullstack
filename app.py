@@ -13,3 +13,7 @@ print(a*b)
 a=4
 b=4
 print(a*b)
+
+a=6
+b=2
+print(a/b)
